@@ -4,6 +4,7 @@
 # Gradle Installation and Configuration Script
 # Description: Installs and configures Gradle for Java development
 # Author: João Augusto Bonfante
+# GitHub: https://github.com/joaodev
 # Date: January 2026
 ################################################################################
 

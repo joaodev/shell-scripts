@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-#########################################################################################
+################################################################################
 # Angular Setup Script
 # Description: Installs Node.js/npm, Angular CLI and creates an Angular project
 # Author: João Augusto Bonfante
 # GitHub: https://github.com/joaodev
 # Date: January 2026
-#########################################################################################
+################################################################################
 
 set -euo pipefail
 IFS=$'\n\t'

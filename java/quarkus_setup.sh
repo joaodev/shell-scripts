@@ -2,8 +2,9 @@
 
 ################################################################################
 # Quarkus Project Setup Script
-# This script sets up a new Quarkus project with Maven
+# Description: Sets up a new Quarkus project with Maven
 # Author: João Augusto Bonfante
+# GitHub: https://github.com/joaodev
 # Date: January 2026
 ################################################################################
 

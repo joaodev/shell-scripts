@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-##########################################################################################
+################################################################################
 # Vue.js Setup Script
 # Description: Sets up Vue.js system with optional templates, confirmations, and logging
 # Author: João Augusto Bonfante
 # GitHub: https://github.com/joaodev
 # Date: January 2026
-##########################################################################################
+################################################################################
 
 set -euo pipefail
 IFS=$'\n\t'

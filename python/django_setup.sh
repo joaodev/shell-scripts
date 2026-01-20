@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-###################################################################################
+################################################################################
 # Django Setup Script
 # Description: Sets up a Django project with virtualenv, app creation, and logging
 # Author: João Augusto Bonfante
 # GitHub: https://github.com/joaodev
 # Date: January 2026
-###################################################################################
+################################################################################
 
 set -euo pipefail
 IFS=$'\n\t'

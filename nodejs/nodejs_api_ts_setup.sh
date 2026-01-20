@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-#########################################################################################
+################################################################################
 # NodeJS TypeScript API Setup Script
 # Description: Creates a Node.js TypeScript API project with confirmations and logging
 # Author: João Augusto Bonfante
 # GitHub: https://github.com/joaodev
 # Date: January 2026
-#########################################################################################
+################################################################################
 
 set -euo pipefail
 IFS=$'\n\t'

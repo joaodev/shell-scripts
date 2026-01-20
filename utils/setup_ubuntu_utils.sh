@@ -1,12 +1,12 @@
 #!/bin/bash
 
-############################################################################################
+################################################################################
 # Ubuntu Setup Script
 # Description: Sets up a fresh Ubuntu installation with essential tools and configurations
 # Author: João Augusto Bonfante
 # GitHub: https://github.com/joaodev
 # Date: January 2026
-############################################################################################
+################################################################################
 
 set -e  # Exit on error
 
